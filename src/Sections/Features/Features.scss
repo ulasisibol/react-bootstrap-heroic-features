@@ -1,0 +1,18 @@
+#hanging-icons {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.col {
+    --bs-bg-opacity: 1;
+    border-radius: 8px;
+    background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+    padding: 25px;
+    text-align: center;
+    margin: 10px;
+    max-width: 400px;
+}
+
+.row {
+    justify-content: center !important;
+}

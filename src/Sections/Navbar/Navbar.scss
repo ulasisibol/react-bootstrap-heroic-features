@@ -1,0 +1,29 @@
+@media (min-width: 992px) {
+    nav {
+        padding-left: 10% !important;
+        padding-right: 10% !important;
+
+    }
+
+    .navbar-collapse {
+        flex-grow: 0 !important;
+    }
+
+}
+
+nav {
+
+
+    background-color: #212529;
+
+    .navbar-brand {
+        color: white !important;
+    }
+
+    .nav-link {
+        color: white !important;
+    }
+
+
+
+}

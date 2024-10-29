@@ -1,0 +1,8 @@
+    .card {
+        border: none !important;
+        border-radius: 8px;
+        margin-left: 10% !important;
+        margin-right: 10% !important;
+        --bs-bg-opacity: 1;
+        background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important;
+    }
